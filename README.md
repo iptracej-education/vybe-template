@@ -10,7 +10,7 @@
 
 **🚀 Ultra-slim CLAUDE.md generation with template pattern inheritance**
 
-> Transform any project template into an 8-line AI context file that enables perfect architectural pattern replication.
+> Transform any project template into an 8-line AI context file that enables architectural pattern replication.
 
 ## 🔴 The Problem
 
