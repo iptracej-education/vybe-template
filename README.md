@@ -108,16 +108,24 @@ On-demand template analysis uses minimal context while analyzing templates when 
 
 ## 🎯 Supported Templates
 
-Vybe Template works with **any** project template:
+### ✅ Smart Detection & Tooling
+Templates with intelligent language/framework detection and proper tooling commands:
 
-- **🐍 Python**: FastAPI, Django, Flask, Pyramid
-- **📦 JavaScript**: React, Vue, Angular, Next.js, Express
+- **🐍 Python**: FastAPI, Django, Flask (with uv, poetry, pip detection)
+- **📦 JavaScript**: React, Next.js, Express (with pnpm, yarn, npm detection)
+
+### 🔧 Generic Support
+Any template works with basic file scanning and generic patterns:
+
 - **☕ Java**: Spring Boot, Micronaut, Quarkus
-- **🦀 Rust**: Actix, Rocket, Axum
+- **🦀 Rust**: Actix, Rocket, Axum  
 - **🐹 Go**: Gin, Echo, Fiber
 - **💎 Ruby**: Rails, Sinatra
 - **🔷 .NET**: ASP.NET Core, Blazor
 - **🎯 Any custom template** you create!
+
+### 🚀 Extensible Architecture
+The detection logic in `generate-claude.py` can be easily extended to add smart support for additional languages and frameworks. Pull requests welcome!
 
 ## Contributing
 
