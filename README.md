@@ -124,7 +124,7 @@ Any template works with basic file scanning and generic patterns:
 - **.NET**: ASP.NET Core, Blazor
 - **Any custom template** you create!
 
-I would suggest to take a look at our sample directory and CLAUDE.md. You just need to update CLAUDE.md so Claude Code will pick up your requirements. 
+I would suggest to take a look at our examples and CLAUDE.md. Modify CLAUDE.md directly and put it into your project directory!  
 
 At the same time, the detection logic in `generate-claude.py` can be easily extended to add smart support for additional languages and frameworks. Pull requests welcome!
 
