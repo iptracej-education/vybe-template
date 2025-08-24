@@ -1,16 +1,16 @@
-# Vybe Template - On-Demand Template Analysis System
+# Vybe Template - Template Pattern Inheritance System
 
 [![Project](https://img.shields.io/badge/Project-Vybe%20Template-blue)](https://github.com/yourusername/vybe-template)
 [![Status](https://img.shields.io/badge/Status-Production-success)](https://github.com/yourusername/vybe-template)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.6+-blue)](https://www.python.org/)
 [![Templates](https://img.shields.io/badge/Templates-Any%20Framework-purple)](#supported-templates)
-[![Context](https://img.shields.io/badge/Context-8%20Lines-brightgreen)](#the-on-demand-solution)
+[![Context](https://img.shields.io/badge/Context-8%20Lines-brightgreen)](#how-it-works)
 [![Claude](https://img.shields.io/badge/Claude-AI%20Ready-orange)](https://claude.ai)
 
-**🚀 Ultra-slim CLAUDE.md generation with template pattern inheritance**
+**🧬 Smart template pattern inheritance for AI-driven development**
 
-> Transform any project template into an 8-line AI context file that enables architectural pattern replication.
+> Transform any project template into an 8-line AI context file that guides architectural pattern adoption - no enforcement, just intelligent guidance.
 
 ## The Problem
 
@@ -20,15 +20,16 @@ Current development suffers from **context overload**:
 - **Real projects**: Easily reach 400-700 lines of context
 - **Effectiveness loss**: Too much information dilutes AI attention
 
-## The On-Demand Solution
+## How It Works
 
-**On-Demand Template Analysis**: Direct template reference for pattern inheritance
+**Smart Pattern Inheritance**: AI learns from templates through live analysis, not rigid enforcement
 
-### 🎯 Core Concept
-1. **📁 Reference template** - Point directly to your template directory
-2. **⚡ Generate CLAUDE.md** - Creates 8-line context file instantly
-3. **🤖 AI analyzes on-demand** - Template patterns analyzed when needed
-4. **🔄 Always current** - Live template reference, zero maintenance
+### 🎯 Pattern Inheritance Process
+1. **📁 Template Reference** - Point to any project template you want to inherit from
+2. **🧬 Pattern Analysis** - AI analyzes template structure, architecture, and conventions
+3. **📝 Minimal Context** - Generates 8-line CLAUDE.md with template reference
+4. **🤖 Guided Development** - AI naturally follows template patterns without strict enforcement
+5. **🔄 Always Current** - Live template reference, patterns stay up-to-date
 
 ### 📊 Benefits
 
@@ -37,7 +38,7 @@ Current development suffers from **context overload**:
 | **Context Size** | 8 lines | 📉 97% reduction vs traditional |
 | **AI Token Usage** | 200 lines on-demand | 💰 Good cost savings |
 | **Setup Time** | Instant | ⚡ Zero configuration |
-| **Pattern Accuracy** | Direct template copy | 🎯 No abstraction loss |
+| **Pattern Adoption** | AI-guided inheritance | 🎯 Natural pattern following |
 
 ## Project Structure
 
